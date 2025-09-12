@@ -1,16 +1,16 @@
-## Hi there 👋
+# Leonard Excoffier 👋
 
-<!--
-**excoffierleonard/excoffierleonard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer @ Quantum Simulations** · **Computer Engineering @ Polytechnique Montréal**
+I build AI + data systems for finance. 🤖📈
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Rust · Python · Typescript · R · SQL · RAG/embeddings/OCR · Postgres/MariaDB/Redis · Docker + Traefik · R Shiny
+
+## Projects
+
+* 🦀 **fib-rs** — tiny fast Fibonacci + utilities. **10k+ downloads**.
+* 📈 **sps-gbm** — Rust GBM simulator for Monte Carlo pricing.
+* 🧾 **parser** — document → structured JSON (OCR + regex + LLM-ready).
+* 💬 **chatgptcli** — CLI for LLM chat and quick prompts.
+* 🔗 **http2sql** — map HTTP events to normalized SQL tables.
