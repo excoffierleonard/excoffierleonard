@@ -1,6 +1,7 @@
 # Leonard Excoffier 👋
 
 **Software Developer @ Quantum Simulations** · **Computer Engineering @ Polytechnique Montréal**
+
 I build AI + data systems for finance. 🤖📈
 
 ## Tech
