@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f97316&height=220&section=header&text=Leonard%20Excoffier&fontSize=42&fontColor=f97316&fontAlignY=35&desc=Systems%20%E2%80%A2%20Finance%20%E2%80%A2%20Performance&descSize=16&descColor=c9d1d9&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Leonard%20Excoffier&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Systems%20%E2%80%A2%20Finance%20%E2%80%A2%20Performance&descSize=16&descColor=c9d1d9&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- STATIC LINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000000&color=F97316&center=true&vCenter=true&repeat=false&width=600&height=40&lines=%F0%9F%A6%80+Rust+%C2%B7+%F0%9F%90%8D+Python+%C2%B7+%F0%9F%93%98+TypeScript+%C2%B7+%F0%9F%93%8A+R" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1&pause=1000000&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&height=40&lines=%F0%9F%A6%80+Rust+%C2%B7+%F0%9F%90%8D+Python+%C2%B7+%F0%9F%93%98+TypeScript+%C2%B7+%F0%9F%93%8A+R" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+high-performance+systems+for+finance" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Building+high-performance+systems+for+finance" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <!-- QUICK LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/excoffierleonard/)
-[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=safari&logoColor=f97316)](https://excoffierleonard.com)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://excoffierleonard.com)
 [![crates.io](https://img.shields.io/badge/crates.io-e6772e?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/fib-rs)
 [![FFmpeg Sponsor](https://img.shields.io/badge/Sponsor-FFmpeg-008700?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://github.com/FFmpeg)
 
@@ -44,9 +44,9 @@ I build AI-powered financial systems, high-performance Rust tooling, and scalabl
 <h3 align="center">🦀 fib-rs</h3>
 <p align="center">
 <a href="https://github.com/excoffierleonard/fib-rs">
-<img src="https://img.shields.io/github/stars/excoffierleonard/fib-rs?style=flat-square&color=f97316&label=stars" />
+<img src="https://img.shields.io/github/stars/excoffierleonard/fib-rs?style=flat-square&color=58a6ff&label=stars" />
 <img src="https://img.shields.io/crates/d/fib-rs?style=flat-square&color=e6772e&label=downloads" />
-<img src="https://img.shields.io/crates/v/fib-rs?style=flat-square&color=c9d1d9&label=crates.io" />
+<img src="https://img.shields.io/crates/v/fib-rs?style=flat-square&color=e6772e&label=crates.io" />
 </a>
 </p>
 <p align="center">
@@ -60,8 +60,8 @@ Highly optimized Fibonacci calculator using fast doubling — O(log n) time, arb
 <h3 align="center">🖧 wg-tui</h3>
 <p align="center">
 <a href="https://github.com/excoffierleonard/wg-tui">
-<img src="https://img.shields.io/github/stars/excoffierleonard/wg-tui?style=flat-square&color=f97316&label=stars" />
-<img src="https://img.shields.io/github/v/release/excoffierleonard/wg-tui?style=flat-square&color=e6772e&label=release" />
+<img src="https://img.shields.io/github/stars/excoffierleonard/wg-tui?style=flat-square&color=58a6ff&label=stars" />
+<img src="https://img.shields.io/github/v/release/excoffierleonard/wg-tui?style=flat-square&color=2f81f7&label=release" />
 <img src="https://img.shields.io/github/commit-activity/m/excoffierleonard/wg-tui?style=flat-square&color=c9d1d9&label=activity" />
 </a>
 </p>
@@ -78,7 +78,7 @@ Terminal UI for managing WireGuard VPN tunnels — start/stop tunnels, create cl
 <h3 align="center">🔔 downdetector</h3>
 <p align="center">
 <a href="https://github.com/excoffierleonard/downdetector">
-<img src="https://img.shields.io/github/stars/excoffierleonard/downdetector?style=flat-square&color=f97316&label=stars" />
+<img src="https://img.shields.io/github/stars/excoffierleonard/downdetector?style=flat-square&color=58a6ff&label=stars" />
 <img src="https://img.shields.io/badge/deploy-docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/github/commit-activity/m/excoffierleonard/downdetector?style=flat-square&color=c9d1d9&label=activity" />
 </a>
@@ -94,7 +94,7 @@ Lightweight uptime monitor that checks website availability and fires Discord no
 <h3 align="center">🤖 leogpt</h3>
 <p align="center">
 <a href="https://github.com/excoffierleonard/leogpt">
-<img src="https://img.shields.io/github/stars/excoffierleonard/leogpt?style=flat-square&color=f97316&label=stars" />
+<img src="https://img.shields.io/github/stars/excoffierleonard/leogpt?style=flat-square&color=58a6ff&label=stars" />
 <img src="https://img.shields.io/badge/platform-discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/github/commit-activity/m/excoffierleonard/leogpt?style=flat-square&color=c9d1d9&label=activity" />
 </a>
@@ -112,8 +112,8 @@ AI-powered Discord bot with context-aware chat, image/video/audio/PDF processing
 <h3 align="center">🧾 parser</h3>
 <p align="center">
 <a href="https://github.com/excoffierleonard/parser">
-<img src="https://img.shields.io/github/stars/excoffierleonard/parser?style=flat-square&color=f97316&label=stars" />
-<img src="https://img.shields.io/badge/live-parser.excoffierleonard.com-e6772e?style=flat-square" />
+<img src="https://img.shields.io/github/stars/excoffierleonard/parser?style=flat-square&color=58a6ff&label=stars" />
+<img src="https://img.shields.io/badge/live-parser.excoffierleonard.com-2f81f7?style=flat-square" />
 <img src="https://img.shields.io/github/commit-activity/m/excoffierleonard/parser?style=flat-square&color=c9d1d9&label=activity" />
 </a>
 </p>
@@ -128,8 +128,8 @@ REST API & web UI for extracting text from any document — PDF, DOCX, XLSX, PPT
 <h3 align="center">📈 sps-gbm</h3>
 <p align="center">
 <a href="https://github.com/excoffierleonard/sps-gbm">
-<img src="https://img.shields.io/github/stars/excoffierleonard/sps-gbm?style=flat-square&color=f97316&label=stars" />
-<img src="https://img.shields.io/badge/model-GBM-e6772e?style=flat-square" />
+<img src="https://img.shields.io/github/stars/excoffierleonard/sps-gbm?style=flat-square&color=58a6ff&label=stars" />
+<img src="https://img.shields.io/badge/model-GBM-2f81f7?style=flat-square" />
 <img src="https://img.shields.io/github/commit-activity/m/excoffierleonard/sps-gbm?style=flat-square&color=c9d1d9&label=activity" />
 </a>
 </p>
@@ -150,7 +150,7 @@ Monte Carlo stock price simulator using Geometric Brownian Motion — fetches hi
 
 **Languages**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=f97316)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=e6772e)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3)
@@ -169,7 +169,7 @@ Monte Carlo stock price simulator using Geometric Brownian Motion — fetches hi
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-0d1117?style=for-the-badge&logo=v&logoColor=f97316)
+![vLLM](https://img.shields.io/badge/vLLM-0d1117?style=for-the-badge&logo=v&logoColor=58a6ff)
 
 </div>
 
@@ -178,20 +178,18 @@ Monte Carlo stock price simulator using Geometric Brownian Motion — fetches hi
 ### `$ neofetch --stats`
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=excoffierleonard&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=excoffierleonard&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" width="700"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=excoffierleonard&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=f97316&point=f97316&area=true&area_color=f97316" width="900"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=excoffierleonard&theme=github-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff" width="900"/>
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f97316&height=100&section=footer" width="100%"/>
 
 *"We do what we must because we can"* 🦀
 
