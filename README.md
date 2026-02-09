@@ -20,7 +20,7 @@
 <!-- QUICK LINKS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/excoffierleonard/)
 [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://excoffierleonard.com)
-[![crates.io](https://img.shields.io/badge/crates.io-e6772e?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/crates/fib-rs)
+[![crates.io](https://img.shields.io/badge/crates.io-e6772e?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/users/excoffierleonard)
 
 [![FFmpeg Sponsor](https://img.shields.io/badge/Sponsor-FFmpeg-008700?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://github.com/FFmpeg)
 [![Actix Sponsor](https://img.shields.io/badge/Sponsor-Actix-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/actix)
