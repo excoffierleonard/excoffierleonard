@@ -24,6 +24,10 @@
 
 [![FFmpeg Sponsor](https://img.shields.io/badge/Sponsor-FFmpeg-008700?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://github.com/FFmpeg)
 [![Actix Sponsor](https://img.shields.io/badge/Sponsor-Actix-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/actix)
+[![Neovim Sponsor](https://img.shields.io/badge/Sponsor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim)
+[![Traefik Sponsor](https://img.shields.io/badge/Sponsor-Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)](https://github.com/traefik/traefik)
+[![clap Sponsor](https://img.shields.io/badge/Sponsor-clap-DEA584?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/clap-rs/clap)
+[![vLLM Sponsor](https://img.shields.io/badge/Sponsor-vLLM-7C3AED?style=for-the-badge&logoColor=white)](https://github.com/vllm-project/vllm)
 
 </div>
 
@@ -31,7 +35,7 @@
 
 ### `$ whoami`
 
-Software Developer at [**Quantum Simulations**](https://qsnxt.ca/) and M.Eng. student in **Computer Engineering** at [Polytechnique Montréal](https://www.polymtl.ca/), specializing in data engineering & analytics. Background in **Finance** from Concordia's [JMSB](https://www.concordia.ca/jmsb.html) (3.9 GPA, with distinction). Proud [FFmpeg](https://github.com/FFmpeg) and [Actix](https://github.com/actix) sponsor.
+Software Developer at [**Quantum Simulations**](https://qsnxt.ca/) and M.Eng. student in **Computer Engineering** at [Polytechnique Montréal](https://www.polymtl.ca/), specializing in data engineering & analytics. Background in **Finance** from Concordia's [JMSB](https://www.concordia.ca/jmsb.html) (3.9 GPA, with distinction). Proud sponsor of [FFmpeg](https://github.com/FFmpeg), [Actix](https://github.com/actix), [Neovim](https://github.com/neovim), [Traefik](https://github.com/traefik/traefik), [clap](https://github.com/clap-rs/clap) & [vLLM](https://github.com/vllm-project/vllm).
 
 I build AI-powered financial systems, high-performance Rust tooling, and scalable data pipelines. Everything I ship is containerized, tested, and fast.
 
