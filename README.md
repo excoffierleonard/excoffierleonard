@@ -22,6 +22,12 @@
 [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://excoffierleonard.com)
 [![crates.io](https://img.shields.io/badge/crates.io-e6772e?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/users/excoffierleonard)
 
+<!-- PROFILE STATS -->
+![Profile Views](https://komarev.com/ghpvc/?username=excoffierleonard&style=for-the-badge&color=58a6ff&label=Profile+Views)
+[![Total Stars](https://img.shields.io/github/stars/excoffierleonard?style=for-the-badge&color=58a6ff&label=Total+Stars)](https://github.com/excoffierleonard?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/excoffierleonard?style=for-the-badge&color=58a6ff&label=Followers)](https://github.com/excoffierleonard?tab=followers)
+
+<!-- SPONSORS -->
 [![FFmpeg Sponsor](https://img.shields.io/badge/Sponsor-FFmpeg-008700?style=for-the-badge&logo=ffmpeg&logoColor=white)](https://github.com/FFmpeg)
 [![Actix Sponsor](https://img.shields.io/badge/Sponsor-Actix-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/actix)
 [![Neovim Sponsor](https://img.shields.io/badge/Sponsor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/neovim)
