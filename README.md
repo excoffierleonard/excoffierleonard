@@ -41,7 +41,7 @@
 
 ### `$ whoami`
 
-Financial Product Modeling at [**La Caisse**](https://www.lacaisse.com/) and M.Eng. student in **Computer Engineering** at [Polytechnique Montréal](https://www.polymtl.ca/), specializing in data engineering & analytics. Background in **Finance** from Concordia's [JMSB](https://www.concordia.ca/jmsb.html) (3.9 GPA, with distinction). Proud sponsor of [FFmpeg](https://github.com/FFmpeg), [Actix](https://github.com/actix), [Neovim](https://github.com/neovim), [Traefik](https://github.com/traefik/traefik), [clap](https://github.com/clap-rs/clap) & [vLLM](https://github.com/vllm-project/vllm).
+**Financial Product Modeling** at [**La Caisse**](https://www.lacaisse.com/) and M.Eng. student in **Computer Engineering** at [**Polytechnique Montréal**](https://www.polymtl.ca/), specializing in data engineering & analytics. Background in **Finance** from Concordia's [JMSB](https://www.concordia.ca/jmsb.html) (3.9 GPA, with distinction). Proud sponsor of [FFmpeg](https://github.com/FFmpeg), [Actix](https://github.com/actix), [Neovim](https://github.com/neovim), [Traefik](https://github.com/traefik/traefik), [clap](https://github.com/clap-rs/clap) & [vLLM](https://github.com/vllm-project/vllm).
 
 I build AI-powered financial systems, high-performance Rust tooling, and scalable data pipelines. Everything I ship is containerized, tested, and fast.
 
